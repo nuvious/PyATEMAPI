@@ -1,4 +1,4 @@
-cefpython3==66.1
+cefpython3>=66
 charset-normalizer==3.3.0
 idna==3.4
 PyATEMMax==1.0b9
